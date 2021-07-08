@@ -4,7 +4,7 @@ from openpyxl import Workbook
 
 headerslogin = {
     "Content-Type": "application/json",
-    "Authorization": "Basic ZTE3NDE1OjZhNjZhNjZhNjZhNg=="
+    "Authorization": "Basic ZTE3NDE1OjZhNjZhNjZhNj=="
 }
 
 jira_options = {'server': 'https://jira.g2-networks.net/',
